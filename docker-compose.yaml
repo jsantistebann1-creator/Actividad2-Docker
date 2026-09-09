@@ -3,21 +3,27 @@ version: '3'
 services:
     api01:
         container_name: api01
-        image: nmatsui/hello-world-api:0.1.1
+        build: ./api
         ports:
             - 3000:3000
+        environment:
+            - MESSAGE="Julio Santisteban"
 
     api02:
         container_name: api02
-        image: nmatsui/hello-world-api:0.1.1
+        build: ./api
         ports:
             - 3001:3000
+        environment:
+            - MESSAGE="Alejandro Novoa"
     
     api03:
         container_name: api03
-        image: nmatsui/hello-world-api:0.1.1
+        build: ./api
         ports:
             - 3002:3000
+        environment:
+            - MESSAGE="Santisteban Novoa"
     db:
         image: postgres:13
         environment:
