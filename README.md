@@ -28,32 +28,32 @@ SANTISTEBAN NOVOA JULIO ALEJANDRO
 
 CAPTURAS DE PANTALLA DE LO TRABAJADO:
 
-![alt text](image-1.png)
+![Imagen 1](./img/image-1.png)
 
-![alt text](image-2.png)
+![Imagen 2](./img/image-2.png)
 
-![alt text](image-3.png)
+![Imagen 3](./img/image-3.png)
 
-![alt text](image-4.png)
+![Imagen 4](./img/image-4.png)
 
-![alt text](image-5.png)
+![Imagen 5](./img/image-5.png)
 
-![alt text](image-6.png)
+![Imagen 6](./img/image-6.png)
 
-![alt text](image-7.png)
+![Imagen 7](./img/image-7.png)
 
-![alt text](image-10.png)
+![Imagen 10](./img/image-10.png)
 
-![alt text](image-12.png)
+![Imagen 12](./img/image-12.png)
 
-![alt text](image-11.png)
+![Imagen 11](./img/image-11.png)
 
-![alt text](image-13.png)
+![Imagen 13](./img/image-13.png)
 
-![alt text](image-14.png)
+![Imagen 14](./img/image-14.png)
 
-![alt text](image-15.png)
+![Imagen 15](./img/image-15.png)
 
-![alt text](image-8.png)
+![Imagen 8](./img/image-8.png)
 
-![alt text](image-9.png)
+![Imagen 9](./img/image-9.png)
