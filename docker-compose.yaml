@@ -7,7 +7,7 @@ services:
         ports:
             - 3000:3000
         environment:
-            - MESSAGE="Julio Santisteban"
+            - MESSAGE=${NOMBRE}
 
     api02:
         container_name: api02
@@ -15,7 +15,7 @@ services:
         ports:
             - 3001:3000
         environment:
-            - MESSAGE="Alejandro Novoa"
+            - MESSAGE=${APELLIDO}
     
     api03:
         container_name: api03
@@ -23,7 +23,7 @@ services:
         ports:
             - 3002:3000
         environment:
-            - MESSAGE="Santisteban Novoa"
+            - MESSAGE=${HERMANO}
     db:
         image: postgres:13
         environment:
