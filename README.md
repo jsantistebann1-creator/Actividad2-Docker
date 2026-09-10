@@ -57,3 +57,12 @@ CAPTURAS DE PANTALLA DE LO TRABAJADO:
 ![Imagen 8](./img/image-8.png)
 
 ![Imagen 9](./img/image-9.png)
+
+Despues se realizo cambios en .env.example para poner solo datos de prueba, despues de realizar las variables que se ocultaran por gitignore
+aparte se cambio las variables en la parte del readme.
+
+![Imagen 16](./img/image-16.png)
+
+![Imagen 17](./img/image-17.png)
+
+![Imagen 18](./img/image-18.png)
